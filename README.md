@@ -1,5 +1,9 @@
  <h1 align="center">MOVIE-MYSTIQ</h1>
+ <p align="center" style="color: red;">
+  Disclaimer: We want to inform our users that we are currently not supporting this bot due to some issues. Therefore, neither I nor my organization take any responsibility for its usage. However, we will archive it until further notice or until we meet again with updates before August.
+</p><br>
 <h3 align="center">This Movie mystiq is a Whatsapp bot for download movies</h3>
+
 <br>
 <p align="center">
   <img src="https://telegra.ph/file/e8d11fde869fd077944dd.jpg" alt="Movie Mystiq" height="300">
