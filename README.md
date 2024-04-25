@@ -1,6 +1,6 @@
  <h1 align="center">MOVIE-MYSTIQ</h1>
  
-#Disclaimer: We want to inform our users that we are currently not supporting this bot due to some issues. Therefore, neither I nor my organization take any responsibility for its usage. However, we will archive it until further notice or until we meet again with updates before August.
+*Disclaimer: We want to inform our users that we are currently not supporting this bot due to some issues. Therefore, neither I nor my organization take any responsibility for its usage. However, we will archive it until further notice or until we meet again with updates before August.*
 <br>
 <h3 align="center">This Movie mystiq is a Whatsapp bot for download movies</h3>
 
